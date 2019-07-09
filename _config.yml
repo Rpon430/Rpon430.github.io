@@ -1,11 +1,8 @@
 title: Python Project
-author: GitHub User
+author: Rpon430
 email: 1xogns1@naver.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+ 파이썬을 이용한 웹 서버 만들기.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -16,7 +13,7 @@ minima:
   # generate social links in footer
   social_links:
     twitter: jekyllrb
-    github:  jekyll
+    github:  https://github.com/Rpon430
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
